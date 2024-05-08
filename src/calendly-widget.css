@@ -67,7 +67,7 @@
 @media (max-width: 975px) {
     .calendly-overlay .calendly-popup {
         position:fixed;
-        top:200px;
+        top:82px;
         left:0;
         right:0;
         bottom:0;
@@ -86,7 +86,7 @@
 
 .calendly-overlay .calendly-popup-close {
     position:absolute;
-    top:150px;
+    top:70px;
     right:25px;
     color:#fff;
     width:19px;
@@ -98,7 +98,7 @@
 
 @media (max-width: 975px) {
     .calendly-overlay .calendly-popup-close {
-        top:150px;
+        top:70px;
         right:15px
     }
 }
